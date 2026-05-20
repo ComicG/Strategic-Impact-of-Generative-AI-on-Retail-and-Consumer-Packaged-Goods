@@ -1,0 +1,1 @@
+# Strategic-Impact-of-Generative-AI-on-Retail-and-Consumer-Packaged-Goods
