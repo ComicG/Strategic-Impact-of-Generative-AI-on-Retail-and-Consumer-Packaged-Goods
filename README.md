@@ -3,9 +3,8 @@ Strategic Impact of Generative AI on Retail & CPG
 A BCA project exploring how Generative AI enhances personalization, optimizes supply chains, and improves customer experience in the retail and consumer packaged goods sector.
 
 📁 Project Files
-- **`GenAI_Report.docx`** : The complete 80+ page project report.
-- **`GenAI_Presentation.pptx`** : Final presentation slides summarizing the project.
-- **`Project_Guidelines.pdf`** : The original project guidelines from the university.
+- **`Project Report`** : The complete 80+ page project report.
+- **`Presentation.pptx`** : Final presentation slides summarizing the project.
 
 👤 Author
 Nishchay - BCA Student, Chandigarh University
